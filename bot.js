@@ -36,3 +36,5 @@ if(!user.roles.has(role)) {
    
 }
 }); //Toxic Codes
+
+client.login(process.env.BOT_TOKEN);
